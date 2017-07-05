@@ -1,0 +1,8 @@
+MilkyWayApp.ImageAdapter, MilkyWayApp;md5f46760b560d66d470f4e161d8bc11da6.ImageAdapter
+MilkyWayApp.ImageAdapter, MilkyWayApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f46760b560d66d470f4e161d8bc11da6.ImageAdapter
+MilkyWayApp.ImageAdapter;md5f46760b560d66d470f4e161d8bc11da6.ImageAdapter
+milkywayapp.ImageAdapter;md5f46760b560d66d470f4e161d8bc11da6.ImageAdapter
+MilkyWayApp.MainActivity, MilkyWayApp;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
+MilkyWayApp.MainActivity, MilkyWayApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
+MilkyWayApp.MainActivity;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
+milkywayapp.MainActivity;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
