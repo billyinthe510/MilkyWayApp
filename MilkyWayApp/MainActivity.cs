@@ -35,7 +35,7 @@ namespace MilkyWayApp
             */
 
             home.Click += (e, o) => {
-                Toast.MakeText(this, "Clicked", ToastLength.Short).Show();
+                Toast.MakeText(this, "Home Button Clicked", ToastLength.Short).Show();
                 Log.Debug("MilkyWayApp", "Button Debug PResssed");
                 Console.Write("Button pressed");
             };
@@ -46,7 +46,7 @@ namespace MilkyWayApp
 
         public void OnButtonClicked(object sender, EventArgs e)
         {
-            Toast.MakeText(this, "Clicked", ToastLength.Short).Show();
+            Toast.MakeText(this, "Other Buttons Clicked", ToastLength.Short).Show();
             Log.Debug("MilkyWayApp", "Button Debug PResssed");
             Log.Verbose("MilkyWayApp", "Button Verbose PResssed");
             Console.WriteLine("mayApp", "Button was pressed");
