@@ -29,3 +29,4 @@ C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\R.cs.flag
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\uploadflags.txt
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\bin\Debug\MilkyWayApp.dll.mdb
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\android\assets\MilkyWayApp.dll.mdb
+C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\MilkyWayApp.csprojResolveAssemblyReference.cache

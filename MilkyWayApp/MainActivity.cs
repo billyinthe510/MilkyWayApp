@@ -17,8 +17,6 @@ namespace MilkyWayApp
 
             SetContentView(Resource.Layout.Main);
 
-            
-            //ScrollView scrollView = FindViewById<ScrollView>(Resource.Id.scrollView);
             GridView gridView = FindViewById<GridView>(Resource.Id.gridview);
 
             ImageButton home = FindViewById<ImageButton>(Resource.Id.home);
@@ -36,22 +34,21 @@ namespace MilkyWayApp
 
             home.Click += (e, o) => {
                 Toast.MakeText(this, "Home Button Clicked", ToastLength.Short).Show();
-                Log.Debug("MilkyWayApp", "Button Debug PResssed");
-                Console.Write("Button pressed");
             };
-            map.Click += OnButtonClicked;
-            camera.Click += OnButtonClicked;
-            profile.Click += OnButtonClicked;
+            map.Click += (e, o) => {
+                Toast.MakeText(this, "Map Button Clicked", ToastLength.Short).Show();
+            };
+            camera.Click += (e, o) => {
+                Toast.MakeText(this, "Camera Button Clicked", ToastLength.Short).Show();
+            };
+            profile.Click += (e, o) => {
+                Toast.MakeText(this, "Profile Button Clicked", ToastLength.Short).Show();
+            };
         }
 
         public void OnButtonClicked(object sender, EventArgs e)
         {
             Toast.MakeText(this, "Other Buttons Clicked", ToastLength.Short).Show();
-            Log.Debug("MilkyWayApp", "Button Debug PResssed");
-            Log.Verbose("MilkyWayApp", "Button Verbose PResssed");
-            Console.WriteLine("mayApp", "Button was pressed");
-            
-            
         }
     }
 }
