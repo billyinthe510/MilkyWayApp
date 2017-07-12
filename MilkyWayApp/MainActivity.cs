@@ -39,6 +39,22 @@ namespace MilkyWayApp
                 Log.Debug("MilkyWayApp", "Button Debug PResssed");
                 Console.Write("Button pressed");
             };
+            map.Click += (e, o) => {
+                Toast.MakeText(this, "Map Clicked", ToastLength.Short).Show();
+                Log.Debug("MilkyWayApp", "Button Debug PResssed");
+                Console.Write("Button pressed");
+            };
+            camera.Click += (e, o) => {
+                Toast.MakeText(this, "Camera Clicked", ToastLength.Short).Show();
+                Log.Debug("MilkyWayApp", "Button Debug PResssed");
+                Console.Write("Button pressed");
+                StartActivity(typeof(camera));
+            };
+            profile.Click += (e, o) => {
+                Toast.MakeText(this, "Profile", ToastLength.Short).Show();
+                Log.Debug("MilkyWayApp", "Button Debug PResssed");
+                Console.Write("Button pressed");
+            };
             map.Click += OnButtonClicked;
             camera.Click += OnButtonClicked;
             profile.Click += OnButtonClicked;
@@ -46,7 +62,9 @@ namespace MilkyWayApp
 
         public void OnButtonClicked(object sender, EventArgs e)
         {
+            /*
             Toast.MakeText(this, "Other Buttons Clicked", ToastLength.Short).Show();
+            */
             Log.Debug("MilkyWayApp", "Button Debug PResssed");
             Log.Verbose("MilkyWayApp", "Button Verbose PResssed");
             Console.WriteLine("mayApp", "Button was pressed");
