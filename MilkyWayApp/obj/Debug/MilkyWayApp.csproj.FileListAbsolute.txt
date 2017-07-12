@@ -30,3 +30,6 @@ C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\uploadflags.txt
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\bin\Debug\MilkyWayApp.dll.mdb
 C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\android\assets\MilkyWayApp.dll.mdb
 C:\Users\ndroc\Desktop\MilkyWayApp\MilkyWayApp\obj\Debug\MilkyWayApp.csprojResolveAssemblyReference.cache
+C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\layout\mygridviewcell.xml
+C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\drawable\quote.png
+C:\Users\billy_000\MilkyWayApp\MilkyWayApp\obj\Debug\res\drawable\quoted.jpg

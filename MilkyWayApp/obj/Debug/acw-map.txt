@@ -6,3 +6,7 @@ MilkyWayApp.MainActivity, MilkyWayApp;md5f46760b560d66d470f4e161d8bc11da6.MainAc
 MilkyWayApp.MainActivity, MilkyWayApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
 MilkyWayApp.MainActivity;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
 milkywayapp.MainActivity;md5f46760b560d66d470f4e161d8bc11da6.MainActivity
+MilkyWayApp.MyGridViewAdapter, MilkyWayApp;md5f46760b560d66d470f4e161d8bc11da6.MyGridViewAdapter
+MilkyWayApp.MyGridViewAdapter, MilkyWayApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f46760b560d66d470f4e161d8bc11da6.MyGridViewAdapter
+MilkyWayApp.MyGridViewAdapter;md5f46760b560d66d470f4e161d8bc11da6.MyGridViewAdapter
+milkywayapp.MyGridViewAdapter;md5f46760b560d66d470f4e161d8bc11da6.MyGridViewAdapter
