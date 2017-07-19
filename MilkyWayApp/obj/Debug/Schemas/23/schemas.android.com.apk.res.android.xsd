@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>7/12/2017 2:08:22 AM</xs:documentation>
+    <xs:documentation>7/19/2017 1:26:30 AM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16853,7 +16853,7 @@
             <xs:enumeration value="@+id/checkBox1" />
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -19746,7 +19746,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -19828,7 +19828,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -19910,7 +19910,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -19992,7 +19992,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -20074,7 +20074,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -20396,7 +20396,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -20478,7 +20478,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -20560,7 +20560,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -20682,7 +20682,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -21206,7 +21206,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -21288,7 +21288,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -21370,7 +21370,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />
@@ -21452,7 +21452,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/camera" />
             <xs:enumeration value="@id/footer" />
-            <xs:enumeration value="@id/gridView" />
+            <xs:enumeration value="@id/gridview" />
             <xs:enumeration value="@id/home" />
             <xs:enumeration value="@id/imgThumbnail" />
             <xs:enumeration value="@id/map" />

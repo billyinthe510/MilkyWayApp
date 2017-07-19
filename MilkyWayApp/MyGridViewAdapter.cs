@@ -20,13 +20,15 @@ namespace MilkyWayApp
             var item = _mySimpleItemLoader.MySimpleItems[position];
 
             View itemView = convertView ?? LayoutInflater.From(_context).Inflate(Resource.Layout.MyGridViewCell, parent, false);
-            var tvDisplayName = itemView.FindViewById<TextView>(Resource.Id.tvDisplayName);
-            var imgThumbail = itemView.FindViewById<ImageView>(Resource.Id.imgThumbnail);
-
+         //   var tvDisplayName = itemView.FindViewById<TextView>(Resource.Id.tvDisplayName);
+            ImageButton imgThumbail = itemView.FindViewById<ImageButton>(Resource.Id.imgThumbnail);
+            imgThumbail.Click += (e, o) => {
+                Toast.MakeText(_context, "Img Button Clicked", ToastLength.Short).Show();
+            };
             imgThumbail.SetScaleType(ImageView.ScaleType.CenterCrop);
             imgThumbail.SetPadding(8, 8, 8, 8);
 
-            tvDisplayName.Text = item.DisplayName;
+          //  tvDisplayName.Text = item.DisplayName;
             imgThumbail.SetImageResource(Resource.Drawable.quoted);
 
             return itemView;

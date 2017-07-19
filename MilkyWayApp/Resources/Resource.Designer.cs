@@ -90,9 +90,6 @@ namespace MilkyWayApp
 			// aapt resource value: 0x7f050005
 			public const int profile = 2131034117;
 			
-			// aapt resource value: 0x7f050007
-			public const int tvDisplayName = 2131034119;
-			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

@@ -10,25 +10,12 @@
     android:clickable="true"
     android:focusable="true">
 
-  <ImageView
+  <ImageButton
       android:id="@+id/imgThumbnail"
       android:layout_width="160dp"
       android:layout_height="160dp"
       android:padding="5dp"
         >
-  </ImageView>
-
-    <TextView
-        android:id="@+id/tvDisplayName"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="10dp"
-        android:paddingTop="5dp"
-        android:paddingBottom="10dp"
-        android:gravity="center"
-        android:textSize="18sp"
-        android:background="#424242"
-        >
-    </TextView>
+  </ImageButton>
 
 </LinearLayout>

@@ -9,7 +9,8 @@ using Android.Content;
 
 namespace MilkyWayApp
 {
-    [Activity(Label = "MilkyWayApp", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "MilkyWayApp", MainLauncher = true, Icon = "@drawable/icon", Theme = "@android:style/Theme.NoTitleBar")]
+   // [Activity(Label = "MilkyWayApp", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
 

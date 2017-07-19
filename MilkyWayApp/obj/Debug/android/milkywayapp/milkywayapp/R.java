@@ -24,7 +24,6 @@ public final class R {
         public static final int imgThumbnail=0x7f050006;
         public static final int map=0x7f050003;
         public static final int profile=0x7f050005;
-        public static final int tvDisplayName=0x7f050007;
     }
     public static final class layout {
         public static final int main=0x7f030000;
